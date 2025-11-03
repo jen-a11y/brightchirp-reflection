@@ -1,3 +1,4 @@
+deploy fix
 
 # BrightChirp Reflection Tracker (Basic)
 Minimal Next.js + Supabase app for clients to log weekly reflections and track a progress score per goal.
